@@ -50,7 +50,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "JupiterTube"
-    subtitle = "So long PeerTube..."
+    subtitle = "PeerTube Problems"
     owner = "Jupiter Broadcasting"
     keywords = ""
     copyright = "&copy Jupiter Broadcasting"
