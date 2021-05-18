@@ -24,8 +24,6 @@ The project describes itself as:
 
 In recent versions, they've been working on real true P2P live streaming, and it's amazed me how far they've gotten it so fast.
 
-![PeerTube_Logo](https://i.imgur.com/7DCY4ur.png)
-
 ## It's not a YouTube killer... Yet.
 
 The software itself handles even demanding workloads great, stability has been surprisingly good. Even when we tried to really push the new live stream support.
