@@ -40,9 +40,13 @@ Our key problems with PeerTube as it is today, are these:
 	+ And each member of Jupiter Broadcasting would need an account.
 	+ It just becomes a lot to manage. And not super easy to automate. Which is a big deal to us.
 + Live stream support is GREAT for v1 support. However it is still tricky to use, especially if you want to have a live stream auto-publish. If, for some reason, that stream drops at any point you are kind of locked out and have to regenerate an API key, which can break service integrations such as restream.io.
-+ The disk space is ~30G and _growing_.
++ The disk space is ~30G and _growing_. - And that's with only two of our shows being test published for a few months.
++ There is no great way to mass-import. We want to bring our entire back-catalog online, but it would take a lifetime one video at a time.
+	+ Some kind of directory import would be ideal. Import the videos and read title/description from a text file.
+	+ Or an RSS feed import
+	+ The current video import options are really nice, just need expanded for us.
 
-## We're kind of a big deal... :)
+## We're kind of a big deal... ;)
 
 I think some of these pain points are almost a non-issue for simpler use cases.
 
@@ -54,5 +58,18 @@ For now, we plan to keep testing PeerTube, trying out the new releases, and sear
 
 Check back here in the future, you never know when we might give it a go again. And when we do, we hope to go all in.
 
+### Previous PeerTube coverage
+
++ [Fedora to the Core | LINUX Unplugged 255 ](https://www.youtube.com/watch?v=BkmSD3Z0kUk&t=301s)
+
++ [Peering Into the Future | LINUX Unplugged 256 ](https://www.youtube.com/watch?v=ZUDSdeBretw&t=4946s)
+
++ [GNOME, GNOME on the Range | LINUX Unplugged 261 ](https://youtu.be/SE7NO3mbo9w?t=2666)
+
++ [Waxing On With Wendell | LINUX Unplugged 388](https://youtu.be/p3bEumYnnAo?t=2219)
+
+### Feedback and Corrections
+
+[Our contact page](https://linuxunplugged.com/contact)
 
 -Chris
