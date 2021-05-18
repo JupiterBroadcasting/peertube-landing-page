@@ -5,7 +5,7 @@ author = "ChrisLAS"
 authorTwitter = "ChrisLAS" #do not include @
 cover = ""
 tags = ["", ""]
-keywords = [""PeerTube,Failure ""]
+keywords = ["PeerTube","Failure"]
 description = "PeerTube is not working for us. We love it, but it's just not there yet... For us"
 showFullContent = false
 +++
