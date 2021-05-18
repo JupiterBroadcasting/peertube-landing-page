@@ -18,13 +18,13 @@ I hope PeerTube is the future of decentralized video on the web. I think it alre
 
 PeerTube solves the disadvantages of centralized video control on the web in very innovative ways.
 
-As the project describes itself:
+The project describes itself as:
 
 > PeerTube is a free and open-source, decentralized, federated video platform powered by ActivityPub and WebTorrent, that uses peer-to-peer technology to reduce load on individual servers when viewing videos.
 
 In recent versions, they've been working on real true P2P live streaming, and it's amazed me how far they've gotten it so fast.
 
-
+![PeerTube_Logo](https://i.imgur.com/7DCY4ur.png)
 
 ## It's not a YouTube killer... Yet.
 
@@ -32,7 +32,7 @@ The software itself handles even demanding workloads great, stability has been s
 
 Where things start to fall down for Jupiter Broadcasting is operating at scale, on an ongoing basis. Four or more shows a week, multiple team members, and live streams.
 
-Our key problems with PeerTube as is today:
+**Our key problems with PeerTube as is today:**
 
 + Unclear on how to scale management across multiple channels/shows
 	+ I need an account for every show, plus a network account for live streams, plus my personal account for comments and my own feed.
