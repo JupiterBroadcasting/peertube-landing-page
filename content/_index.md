@@ -14,7 +14,7 @@ showFullContent = false
 
 # Some PeerTube Problems
 
-I'll say right off the top, I hope PeerTube is the future of decentralized video on the web. I think it already should be the go-to software for free software projects and events.
+I hope PeerTube is the future of decentralized video on the web. I think it already should be the go-to software for free software projects and events.
 
 PeerTube solves the disadvantages of centralized video control on the web in very innovative ways.
 
@@ -28,12 +28,11 @@ In recent versions, they've been working on real true P2P live streaming, and it
 
 ## It's not a YouTube killer... Yet.
 
-Where things start to fall down for Jupiter Broadcasting is when you're trying to operate at scale on an ongoing basis. Four or more shows a week, multiple team members, and live streams.
+The software itself handles even demanding workloads great, stability has been surprisingly good. Even when we tried to really push the new live stream support.
 
-The software itself handles the work great, stability has been surprisingly good.
+Where things start to fall down for Jupiter Broadcasting is operating at scale, on an ongoing basis. Four or more shows a week, multiple team members, and live streams.
 
-
-Our key problems with PeerTube as it is today, are these:
+Our key problems with PeerTube as is today:
 
 + Unclear on how to scale management across multiple channels/shows
 	+ I need an account for every show, plus a network account for live streams, plus my personal account for comments and my own feed.
@@ -48,15 +47,17 @@ Our key problems with PeerTube as it is today, are these:
 
 ## We're kind of a big deal... ;)
 
-I think some of these pain points are almost a non-issue for simpler use cases.
+I think some of these pain points are almost a non-issue for simpler use cases. The project that makes the one off video from time to time, or the community event that wants a full free stack to stream and make talks available. PeerTube can crush those jobs. For that kind of work, it really is a YouTube killer in a box.
 
-But for content creators putting out a lot of content, across various "channels" it can be tricky to manage.
+But for content creators putting out a lot of content, across various "channels" it is tricky and cumbersome to manage. 
 
-The network effect is also an issue. We found our viewers just started forgetting to use PeerTube, falling back into the habit of YouTube instead. But we hope as more PeerTube instances pop up this issue starts to resolve itself.
+The network effect is also an issue. Our viewers just started forgetting to use PeerTube, falling back into the habit of YouTube and TWiTCH instead. But I hope as more PeerTube instances pop up this issue starts to resolve itself faster than we typically see online. PeerTube's clever use of [ActivityPub](https://www.w3.org/TR/activitypub/) means there is a decentralized way for viewers to get notified about new content. And it just takes a core group of viewers to get a video noticed and rolling.
 
-For now, we plan to keep testing PeerTube, trying out the new releases, and searching for ways to automate deploying content to PeerTube.
+For now, we plan to keep testing PeerTube behined the scenes, trying out the new releases, and searching for ways to automate deploying content to PeerTube.
 
-Check back here in the future, you never know when we might give it a go again. And when we do, we hope to go all in.
+We're taking our public instance offline since it won't be getting the focus it deserves, and does not represent how excited we are about PeerTube and our intent to go all in once everything is ready.
+
+Check back here in the future, you never know when we might give it a go again. 
 
 ### Previous PeerTube coverage
 
