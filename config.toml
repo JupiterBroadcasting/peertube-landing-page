@@ -90,7 +90,7 @@ name = "linode"
 # S3; see https://gocloud.dev/howto/blob/#s3
 # For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
 # URL = "s3://peertube-landingpage.?region=<AWS region>"
-URL = "s3://peertube-landing-page.us-east-1.linodeobjects.com"
+URL = "s3://peertube-landing-page?endpoint=us-east-1.linodeobjects.com"
 
 
 
